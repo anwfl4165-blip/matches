@@ -1,62 +1,314 @@
-[
-  {
-    "id": 15182737,
-    "home_id": 2525,
-    "away_id": 21,
-    "date": "2026-10-29",
-    "datetime": "2026-10-29 18:30:00",
-    "kickoff_utc": "2026-10-29T17:30:00Z",
-    "updated_at": "2026-10-29T01:00:59Z",
-    "home_score": null,
-    "away_score": null,
-    "result": null,
-    "status": "Scheduled",
-    "minute": null,
-    "stage": "",
-    "league_id": 3,
-    "league_name": "Italian Serie A",
-    "league_geo": "IT",
-    "league_zone": "Italy",
-    "home_team": "Frosinone",
-    "home_short": "Frosinone",
-    "home_logo": "espn-4057.png",
-    "home_geo": "",
-    "away_team": "Lecce",
-    "away_short": "Lecce",
-    "away_logo": "italian-serie-a--lecce.svg",
-    "away_geo": "",
-    "penalty_home": null,
-    "penalty_away": null,
-    "winner": null
-  },
-  {
-    "id": 15182738,
-    "home_id": 132,
-    "away_id": 127,
-    "date": "2026-10-29",
-    "datetime": "2026-10-29 20:45:00",
-    "kickoff_utc": "2026-10-29T19:45:00Z",
-    "updated_at": "2026-10-29T01:00:59Z",
-    "home_score": null,
-    "away_score": null,
-    "result": null,
-    "status": "Scheduled",
-    "minute": null,
-    "stage": "",
-    "league_id": 3,
-    "league_name": "Italian Serie A",
-    "league_geo": "IT",
-    "league_zone": "Italy",
-    "home_team": "Fiorentina",
-    "home_short": "Fiorentina",
-    "home_logo": "italian-serie-a--fiorentina.svg",
-    "home_geo": "",
-    "away_team": "Atalanta",
-    "away_short": "Atalanta",
-    "away_logo": "italian-serie-a--atalanta.svg",
-    "away_geo": "",
-    "penalty_home": null,
-    "penalty_away": null,
-    "winner": null
-  }
-]
+{
+  "date": "2026-10-29",
+  "timezone": "Asia/Aden",
+  "source": "API-SPORTS",
+  "updatedAt": "2026-10-29T12:46:34",
+  "count": 5,
+  "matches": [
+    {
+      "fixture": {
+        "id": 1603075,
+        "date": "2026-10-29T17:35:00+03:00",
+        "timestamp": 1793284500,
+        "timezone": "Asia/Aden",
+        "venue": {
+          "id": 1370,
+          "name": "Al-Khaleej Club Stadium",
+          "city": "Sehat"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 12"
+      },
+      "home": {
+        "id": 2928,
+        "name": "Al Khaleej Saihat",
+        "logo": "https://media.api-sports.io/football/teams/2928.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2945,
+        "name": "Al-Hazm",
+        "logo": "https://media.api-sports.io/football/teams/2945.png",
+        "winner": null
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1550170,
+        "date": "2026-10-29T20:30:00+03:00",
+        "timestamp": 1793295000,
+        "timezone": "Asia/Aden",
+        "venue": {
+          "id": 904,
+          "name": "PSC Arena",
+          "city": "Frosinone"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/135.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
+        "season": 2026,
+        "round": "Regular Season - 9"
+      },
+      "home": {
+        "id": 512,
+        "name": "Frosinone",
+        "logo": "https://media.api-sports.io/football/teams/512.png",
+        "winner": null
+      },
+      "away": {
+        "id": 867,
+        "name": "Lecce",
+        "logo": "https://media.api-sports.io/football/teams/867.png",
+        "winner": null
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603076,
+        "date": "2026-10-29T21:00:00+03:00",
+        "timestamp": 1793296800,
+        "timezone": "Asia/Aden",
+        "venue": {
+          "id": 19933,
+          "name": "Al-Awwal Park",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 12"
+      },
+      "home": {
+        "id": 2939,
+        "name": "Al-Nassr",
+        "logo": "https://media.api-sports.io/football/teams/2939.png",
+        "winner": null
+      },
+      "away": {
+        "id": 10509,
+        "name": "Al Kholood",
+        "logo": "https://media.api-sports.io/football/teams/10509.png",
+        "winner": null
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1603077,
+        "date": "2026-10-29T21:00:00+03:00",
+        "timestamp": 1793296800,
+        "timezone": "Asia/Aden",
+        "venue": {
+          "id": 1374,
+          "name": "Prince Turki bin Abdul Aziz Stadium",
+          "city": "Riyadh"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 307,
+        "name": "Pro League",
+        "country": "Saudi-Arabia",
+        "logo": "https://media.api-sports.io/football/leagues/307.png",
+        "flag": "https://media.api-sports.io/flags/sa.svg",
+        "season": 2026,
+        "round": "Regular Season - 12"
+      },
+      "home": {
+        "id": 10511,
+        "name": "Al Riyadh",
+        "logo": "https://media.api-sports.io/football/teams/10511.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2933,
+        "name": "Al-Qadisiyah FC",
+        "logo": "https://media.api-sports.io/football/teams/2933.png",
+        "winner": null
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1550169,
+        "date": "2026-10-29T22:45:00+03:00",
+        "timestamp": 1793303100,
+        "timezone": "Asia/Aden",
+        "venue": {
+          "id": 902,
+          "name": "Stadio Artemio Franchi",
+          "city": "Florence"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/135.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
+        "season": 2026,
+        "round": "Regular Season - 9"
+      },
+      "home": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png",
+        "winner": null
+      },
+      "away": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media.api-sports.io/football/teams/499.png",
+        "winner": null
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}
