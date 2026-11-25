@@ -6,12 +6,12 @@
     "date": "2026-11-25",
     "datetime": "2026-11-25 20:45:00",
     "kickoff_utc": "2026-11-25T17:45:00.000Z",
-    "updated_at": "2026-11-25T18:13:01Z",
-    "home_score": 0,
-    "away_score": 0,
-    "result": 0,
+    "updated_at": "2026-11-25T19:13:01Z",
+    "home_score": 1,
+    "away_score": 4,
+    "result": -1,
     "status": "LIVE",
-    "minute": "28'",
+    "minute": "70'",
     "stage": "League Stage",
     "league_id": 18,
     "league_name": "UEFA Champions League",
@@ -27,7 +27,7 @@
     "away_geo": "",
     "penalty_home": null,
     "penalty_away": null,
-    "winner": "draw"
+    "winner": "away"
   },
   {
     "id": 18572763,
@@ -36,12 +36,12 @@
     "date": "2026-11-25",
     "datetime": "2026-11-25 20:45:00",
     "kickoff_utc": "2026-11-25T17:45:00.000Z",
-    "updated_at": "2026-11-25T18:13:18Z",
+    "updated_at": "2026-11-25T19:13:01Z",
     "home_score": 0,
-    "away_score": 0,
-    "result": 0,
+    "away_score": 1,
+    "result": -1,
     "status": "LIVE",
-    "minute": "28'",
+    "minute": "69'",
     "stage": "League Stage",
     "league_id": 18,
     "league_name": "UEFA Champions League",
@@ -57,7 +57,7 @@
     "away_geo": "",
     "penalty_home": null,
     "penalty_away": null,
-    "winner": "draw"
+    "winner": "away"
   },
   {
     "id": "highlightly-1392005312",
