@@ -36,12 +36,12 @@
     "date": "2026-11-27",
     "datetime": "2026-11-27 17:20:00",
     "kickoff_utc": "2026-11-27T14:20:00.000Z",
-    "updated_at": "2026-11-27T01:00:59Z",
-    "home_score": null,
-    "away_score": null,
-    "result": null,
-    "status": "Scheduled",
-    "minute": null,
+    "updated_at": "2026-11-27T15:08:48Z",
+    "home_score": 0,
+    "away_score": 0,
+    "result": 0,
+    "status": "LIVE",
+    "minute": "HT",
     "stage": "",
     "league_id": 87,
     "league_name": "Saudi Arabian League",
@@ -57,7 +57,7 @@
     "away_geo": "",
     "penalty_home": null,
     "penalty_away": null,
-    "winner": null
+    "winner": "draw"
   },
   {
     "id": 15914800,
